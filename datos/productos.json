@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Sandwich de pollo",
+        "precio": 3.5,
+        "stock": 10,
+        "disponible": true
+    },
+    {
+        "codigo": 2,
+        "nombre": "Frappe",
+        "precio": 3.0,
+        "stock": 3,
+        "disponible": true
+    },
+    {
+        "codigo": 3,
+        "nombre": "Humitas",
+        "precio": 1.25,
+        "stock": 25,
+        "disponible": true
+    },
+    {
+        "codigo": 4,
+        "nombre": "Expresso",
+        "precio": 1.0,
+        "stock": 15,
+        "disponible": true
+    },
+    {
+        "codigo": 5,
+        "nombre": "croissant de chocolate",
+        "precio": 1.5,
+        "stock": 10,
+        "disponible": true
+    },
+    {
+        "codigo": 6,
+        "nombre": "Empapizza",
+        "precio": 1.0,
+        "stock": 10,
+        "disponible": true
+    }
+]
